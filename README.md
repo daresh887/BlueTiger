@@ -1,2 +1,2 @@
 # BlueTiger
-BlueTiger is an upcoming platform made by Joe.
+BlueTiger is an upcoming platform made by Joe, Deez and Ligma.
