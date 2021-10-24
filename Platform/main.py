@@ -4,7 +4,7 @@ from tkinter import font
 root = Tk()
 root.geometry("300x250")
 root.title("Blue Tiger")
-root.iconbitmap('images/tigru_albastru.ico')
+root.iconbitmap('c:/users/rares/documents/github/bluetiger/platform/images/tigru_albastru.ico')
 
 login_text = Label(
     root,
